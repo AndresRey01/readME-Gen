@@ -16,6 +16,11 @@ const questions = [
         message: "Please describe the purpose and functionality of this project.",
     },
     {
+        type: "input",
+        name: "screenshot",
+        message: "Please provide the relative path to the image you want to use as the screenshot.",
+    },
+    {
         type: "checkbox",
         name: "license",
         message: "Please select a license applicable to this project.",
