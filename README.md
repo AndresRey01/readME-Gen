@@ -12,6 +12,8 @@
 
   ## Description
   This README generator was created using NodeJs and Inquirer, and it allows users to be able to create a working professional readme using the template and by       
+  ## Requirements
+  Inquirer 8.2.4
   ## Usage
   JavaScript, NodeJS, JSON
   ## Contact-Me
