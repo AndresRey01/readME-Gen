@@ -1,4 +1,4 @@
-# Professional README Generator
+# Test ReadME
   ![Github lisence](https://img.shields.io/badge/license-none-yellowgreen.svg)
   ## Table of Contents
   * [Description](#description)
@@ -11,13 +11,12 @@
 * [License](#license)
 
   ## Description
-  This README generator was created using NodeJs and Inquirer, and it allows users to be able to create a working professional readme using the template and by       
-  ## Requirements
-  Inquirer 8.2.4
+  This is a test to show my app working properly!
   ## Usage
-  JavaScript, NodeJS, JSON
+  JSON, NodeJS, JavaScript
   ## Contact-Me
-  * Email - armore_16@hotmail.com
+  * Name - undefined
+  * Email - myemail@gmail.com
   * Github - [AndresRey01](https://github.com/AndresRey01/)
   ## Contributors
   N/A
@@ -25,8 +24,6 @@
   ```
   N/A
   ```
-  ## Screenshot
-    ![image](https://github.com/AndresRey01/readME-Gen/assets/140764079/ef684462-4013-49a8-b69f-c0b264a9af5d)
   ## License
 
-      N/A  
+        Licensed under the none license.  
